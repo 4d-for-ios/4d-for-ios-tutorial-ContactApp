@@ -1,5 +1,0 @@
-{
-	"name": "mail",
-	"binding": "mailAction",
-	"type" : "text"
-}
